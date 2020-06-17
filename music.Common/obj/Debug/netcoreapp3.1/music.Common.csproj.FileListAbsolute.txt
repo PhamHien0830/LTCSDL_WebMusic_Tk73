@@ -1,0 +1,12 @@
+E:\Nam 3\Ki2\LTCSDL\music\music.Common\bin\Debug\netcoreapp3.1\music.Common.deps.json
+E:\Nam 3\Ki2\LTCSDL\music\music.Common\bin\Debug\netcoreapp3.1\music.Common.dll
+E:\Nam 3\Ki2\LTCSDL\music\music.Common\obj\Debug\netcoreapp3.1\music.Common.csprojAssemblyReference.cache
+E:\Nam 3\Ki2\LTCSDL\music\music.Common\obj\Debug\netcoreapp3.1\music.Common.AssemblyInfoInputs.cache
+E:\Nam 3\Ki2\LTCSDL\music\music.Common\obj\Debug\netcoreapp3.1\music.Common.AssemblyInfo.cs
+E:\Nam 3\Ki2\LTCSDL\music\music.Common\bin\Debug\netcoreapp3.1\music.Common.runtimeconfig.json
+E:\Nam 3\Ki2\LTCSDL\music\music.Common\bin\Debug\netcoreapp3.1\music.Common.runtimeconfig.dev.json
+E:\Nam 3\Ki2\LTCSDL\music\music.Common\bin\Debug\netcoreapp3.1\music.Common.pdb
+E:\Nam 3\Ki2\LTCSDL\music\music.Common\obj\Debug\netcoreapp3.1\music.Common.csproj.CoreCompileInputs.cache
+E:\Nam 3\Ki2\LTCSDL\music\music.Common\obj\Debug\netcoreapp3.1\music.Common.dll
+E:\Nam 3\Ki2\LTCSDL\music\music.Common\obj\Debug\netcoreapp3.1\music.Common.pdb
+E:\Nam 3\Ki2\LTCSDL\music\music.Common\obj\Debug\netcoreapp3.1\music.Common.genruntimeconfig.cache

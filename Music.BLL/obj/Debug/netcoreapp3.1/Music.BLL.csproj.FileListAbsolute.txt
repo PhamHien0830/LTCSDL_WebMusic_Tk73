@@ -1,0 +1,17 @@
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\bin\Debug\netcoreapp3.1\Music.BLL.deps.json
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\bin\Debug\netcoreapp3.1\Music.BLL.dll
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\obj\Debug\netcoreapp3.1\Music.BLL.csprojAssemblyReference.cache
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\obj\Debug\netcoreapp3.1\Music.BLL.AssemblyInfoInputs.cache
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\obj\Debug\netcoreapp3.1\Music.BLL.AssemblyInfo.cs
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\bin\Debug\netcoreapp3.1\Music.BLL.runtimeconfig.json
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\bin\Debug\netcoreapp3.1\Music.BLL.runtimeconfig.dev.json
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\bin\Debug\netcoreapp3.1\Music.BLL.pdb
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\obj\Debug\netcoreapp3.1\Music.BLL.csproj.CoreCompileInputs.cache
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\obj\Debug\netcoreapp3.1\Music.BLL.dll
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\obj\Debug\netcoreapp3.1\Music.BLL.pdb
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\obj\Debug\netcoreapp3.1\Music.BLL.genruntimeconfig.cache
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\bin\Debug\netcoreapp3.1\music.Common.dll
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\bin\Debug\netcoreapp3.1\music.DAL.dll
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\bin\Debug\netcoreapp3.1\music.Common.pdb
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\bin\Debug\netcoreapp3.1\music.DAL.pdb
+E:\Nam 3\Ki2\LTCSDL\music\Music.BLL\obj\Debug\netcoreapp3.1\Music.BLL.csproj.CopyComplete
